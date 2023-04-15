@@ -1,15 +1,10 @@
 ToolGenTestCase
-Tool được thiết kế để hỗ trợ quá trình tạo và quản lý các test case. Các chức năng chính của tool gồm:
+Mô tả: Tool được thiết kế để hỗ trợ quá trình tạo và quản lý các test case
 
-Tạo test case từ quan điểm test.
-Định nghĩa quan điểm  để tool có thể gen testcase.
-Export log khi tạo test case.
-
-Các chức năng
-Tạo test case bằng file input nhập từ file excel và quan điểm test đã có sẵn
-Định nghĩa quan điểm test
-Export log khi tạo test case
-
+Các chức năng chính của tool gồm.
+- Tạo test case từ quan điểm test.
+- Định nghĩa quan điểm  để tool có thể gen testcase.
+- Export log khi tạo test case.
 
 Hướng dẫn sử dụng
 Tạo test case:
