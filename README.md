@@ -6,6 +6,23 @@ Các chức năng chính của tool gồm.
 - Định nghĩa quan điểm  để tool có thể gen testcase.
 - Export log khi tạo test case.
 
+Các bước thực hiện
+
+Tại class TestCaseService
+1) get list test case from file input (done)
+3) create testcase bằng quan điểm test
+5) insert quan diem  into template từ step 4
+6) export testcase
+
+Tại class ViewPointTest
+2) get list quan điểm test from file excel
+
+Các chức năng của TeamplatesTestCase
+4) create template from teamplate co san
+	+ create header
+	+ create footer
+
+
 Hướng dẫn sử dụng
 Tạo test case:
  
